@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+body {
+	background-color: black;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	position: fixed;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: underline;
+	color: white;
+}
+
+h1 {
+	color: aqua;
+	font-size: 50px;
+	margin-left: 30px;
+}
+
+.text {
+	margin-left: 55px;
+	margin-top: -10px;
+	color: aquamarine;
+	font-size: 30px;
+}
+
+.subtext {
+	margin-left: 55px;
+	margin-top: -10px;
+	color: lawngreen;
+	font-family: courier new;
+	font-size: 25px;
+}
+
+h2 {
+	margin-left: 30px;
+	margin-top: 20px;
+	font-family: courier new;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+
+h3 {
+	margin-left: 30px;
+	margin-top: -40px;
+	font-family: courier new;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+h4 {
+	margin-left: 30px;
+	margin-top: -24px;
+	font-family: courier new;
+	font-weight: bold;
+	font-size: 30px;
+}
