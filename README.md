@@ -18,4 +18,3 @@
 - making music
 - photography
 - video production / videography
-- acting / voice acting
