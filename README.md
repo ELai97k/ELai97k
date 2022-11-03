@@ -13,8 +13,7 @@
 ### I’m interested in:
 - programming
 - game design
-- web design
-- UI / UX design
 - making music
 - photography
-- video production / videography
+- video production / videography / video editing
+- graphic design
