@@ -1,5 +1,12 @@
 @charset "utf-8";
 
+.note {
+	color: white;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-top: -50px;
+}
+
 body {
 	background-color: black;
 	color: white;
@@ -58,14 +65,4 @@ h2 {
 	color: white;
 	font-size: 30px;
 	margin-left: 50px;
-}
-
-.linkie {
-	color: blue;
-	text-decoration: underline;
-	
-}
-.linkie:hover {
-	color: blue;
-	text-decoration: underline;
 }
