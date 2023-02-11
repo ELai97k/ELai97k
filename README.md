@@ -2,7 +2,6 @@
  You can just call me Elai.
  
 ## I am a lot of things, here's some:
-- multimedia student
 - graphic designer
 - introvert
 - gamer
@@ -12,7 +11,7 @@
  
 ### I’m interested in:
 - programming
-- game design
+- game design and game development
 - making music
 - photography
 - video production / videography / video editing
