@@ -1,7 +1,6 @@
-# Hi, I’m @ELai97k
- You can just call me Elai.
+# Hi, I’m Elai
  
-## I am a lot of things, here's some:
+## I am a:
 - graphic designer
 - introvert
 - gamer
@@ -9,10 +8,11 @@
 - Youtuber (not very active)
 - programmer (just okay at it)
  
-### I’m interested in:
+### My current interests are:
 - programming
-- game design and game development
+- video game design and video game development
 - making music
 - photography
 - video production / videography / video editing
 - graphic design
+- webcomic artist
