@@ -16,6 +16,11 @@ body {
 	margin-bottom: auto;
 }
 
+.menu {
+	width: auto;
+	text-align: left;
+}
+
 a {
 	text-decoration: none;
 	color: white;
@@ -26,7 +31,7 @@ a:hover {
 }
 
 .song-box {
-	width: 1180px;
+	width: 95%;
 	height: 5500px;
 	margin-left: auto;
 	margin-right: auto;
