@@ -9,7 +9,7 @@
 
 <body>
 	<!--title-->
-	<h1>Profile username: Elai</h1>
+	<h1>Personal Profile: Elai</h1>
 	<p class="text">
 		I walk a lonely road <br>
 		The only one that I have ever known <br>
@@ -33,6 +33,75 @@
 			Powered by GitHub Pages, made by <a class="userlink" target="_blank" href="https://github.com/ELai97k">Elai</a>.
 		</p>
 	</div>
+
+	<!--CSS-->
+	<style>
+		table, th, td {
+                border: 1px solid #41e17a;
+                color: #41e17a;
+                margin-left: 20px;
+                font-size: 25px;
+                font-family: monospace;
+                text-align: justify;
+                background-color: #002e00;
+                width: 550px;
+            }
+            .collapsible {
+                background-color: #002e00;
+                color: #41e17a;
+                cursor: pointer;
+                padding: 16px;
+                width: 550px;
+                border: 1px solid #41e17a;
+                text-align: left;
+                outline: none;
+                font-size: 30px;
+                font-family: monospace;
+                margin-left: 38px;
+                margin-top: 30px;
+                }
+
+                .active, .collapsible:hover {
+                background-color: #137736;
+                }
+
+                .content {
+                padding: 0 18px;
+                max-height: 0;
+                overflow: hidden;
+                transition: max-height 0.2s ease-out;
+                }
+
+				.ptext {
+					margin-left: 50px;
+					text-align: justify;
+					color: #41e17a;
+					font-size: 30px;
+				}
+	</style>
+
+	<!--ABOUT THE AUTHOUR-->
+	<button class="collapsible">About Me</button>
+	<div class="content">
+		<p class="ptext">Hi... I dump my random stuff here...</p>
+	</div>
+
+	<script>
+		var coll = document.getElementsByClassName("collapsible");
+            var i;
+            
+            for (i = 0; i < coll.length; i++) {
+              coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight) {
+                  content.style.maxHeight = null;
+                } else {
+                  content.style.maxHeight = content.scrollHeight + "px";
+                } 
+              });
+            }
+	</script>
 
 </body>
 </html>
