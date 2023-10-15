@@ -5,7 +5,6 @@
 - introvert
 - gamer
 - constant coffee drinker
-- Youtuber (not very active)
 - programmer (just okay at it)
  
 ### My current interests are:
