@@ -1,12 +1,5 @@
 @charset "utf-8";
 
-.note {
-	color: white;
-	font-size: 20px;
-	margin-left: 30px;
-	margin-top: -45px;
-}
-
 body {
 	background-color: black;
 	color: white;
