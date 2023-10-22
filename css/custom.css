@@ -9,6 +9,7 @@ body {
 	margin-bottom: auto;
 	height: 1000px;
 	max-height: 1920px;
+	text-justify: auto;
 }
 
 a {
