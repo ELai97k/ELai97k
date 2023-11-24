@@ -15,3 +15,6 @@
 - video production / videography / video editing
 - graphic design
 - webcomic artist
+
+### Linktree
+https://linktr.ee/elai97
